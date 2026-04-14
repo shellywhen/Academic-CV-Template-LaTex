@@ -1,4 +1,4 @@
-# Academic CV Template [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://shellywhen.github.io/Academic-CV-Template-LaTex/cv.pdf)
+# Academic CV Template LaTex [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://shellywhen.github.io/Academic-CV-Template-LaTex/cv.pdf)
 
 - [Preview Example PDF](https://shellywhen.github.io/Academic-CV-Template-LaTex/cv.pdf)
 
