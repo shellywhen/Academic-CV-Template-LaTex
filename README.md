@@ -1,6 +1,7 @@
 # Academic CV Template LaTex [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://shellywhen.github.io/Academic-CV-Template-LaTex/cv.pdf)
 
 - [Preview Example PDF](https://shellywhen.github.io/Academic-CV-Template-LaTex/cv.pdf)
+- [Author's Personal CV](https://drive.google.com/file/d/1cYB9J2DYccJAI2GCS5dcuItK9mnL9FBk/view)
 
 
 ## About
@@ -14,7 +15,7 @@ If you use or redistribute this template, please retain attribution to the origi
 ## Quick start
 
 - Clone or download this repo.
-- Compile with **LuaLaTeX**.
+- Compile with LuaLaTeX.
 - Update your personal data and customize through `awesome-academic-cv.cls`.
   - The current font is [Merriweather](https://fonts.google.com/specimen/Merriweather).
 
@@ -60,7 +61,10 @@ Separate multiple jobs with `\emptySeparator` if needed.
 ## License
 
 - **`awesome-academic-cv.cls`** and inherited layout code follow the [**LaTeX Project Public License (LPPL) 1.3c**](https://www.latex-project.org/lppl.txt), consistent with the upstream Awesome Source CV lineage.
-- **Section content and documentation** in this repository may be used under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/legalcode) where applicable; always credit **shellywhen** for this fork and **Christophe Roger / Awesome Source CV** for the underlying template.
+- **Section content and documentation** in this repository may be used under [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/legalcode) where applicable; always credit shellywhen for this fork and Christophe Roger/YAAC: Another Awesome CV for the underlying template.
+- **Dependencies**
+  - `sparkline.sty` by Andreas Loeffler
+  - `gradient-text.sty` by Sicheng Du
 
 ## Upstream Chain
 
