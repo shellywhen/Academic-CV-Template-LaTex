@@ -11,7 +11,7 @@
 % and version 1.3 or later is part of all distributions of LaTeX
 % version 2005/12/01 or later.
 %
-% This file awesome-academic-cv.cls that can be downloaded from:
+% This file awesome-academic-cv.cls can be downloaded from:
 % https://github.com/shellywhen/Academic-CV-Template-LaTeX
 
 \ProvidesClass{awesome-academic-cv}[2026/04/15  v1.0.0 'Awesome Academic CV' Class]
